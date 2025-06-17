@@ -413,4 +413,12 @@ button:hover {
   .footer-sec {
     padding: 40px 0 15px;
   }
+  .comp-logo > img {
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+  }
+  .nav-collapse {
+    top: 70px;
+  }
 }
